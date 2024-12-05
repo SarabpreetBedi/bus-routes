@@ -1,0 +1,51 @@
+[
+    {
+        "route_id": 1,
+        "name": "Central City Route",
+        "stops": [
+            {
+                "name": "Central Station",
+                "lat": 12.9716,
+                "lng": 77.5946
+            },
+            {
+                "name": "Tech Park",
+                "lat": 12.9780,
+                "lng": 77.6408
+            },
+            {
+                "name": "University Campus",
+                "lat": 12.9850,
+                "lng": 77.5533
+            },
+            {
+                "name": "Shopping Mall",
+                "lat": 12.9750,
+                "lng": 77.6100
+            }
+        ],
+        "color": "#FF0000"
+    },
+    {
+        "route_id": 2,
+        "name": "Suburban Express",
+        "stops": [
+            {
+                "name": "Outer Ring Road",
+                "lat": 12.9550,
+                "lng": 77.6900
+            },
+            {
+                "name": "Industrial Area",
+                "lat": 12.9800,
+                "lng": 77.7250
+            },
+            {
+                "name": "Residential Complex",
+                "lat": 12.9650,
+                "lng": 77.6750
+            }
+        ],
+        "color": "#0000FF"
+    }
+]
