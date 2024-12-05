@@ -1,0 +1,23 @@
+[
+    {
+        "route_id": 1,
+        "name": "Central City Route",
+        "color": "#FF0000",
+        "coordinates": [
+            {"lat": 12.9716, "lng": 77.5946},
+            {"lat": 12.9780, "lng": 77.6408},
+            {"lat": 12.9850, "lng": 77.5533},
+            {"lat": 12.9750, "lng": 77.6100}
+        ]
+    },
+    {
+        "route_id": 2,
+        "name": "Suburban Express",
+        "color": "#0000FF",
+        "coordinates": [
+            {"lat": 12.9550, "lng": 77.6900},
+            {"lat": 12.9800, "lng": 77.7250},
+            {"lat": 12.9650, "lng": 77.6750}
+        ]
+    }
+]
